@@ -1,0 +1,75 @@
+---------------------------------Day1---------------------------------
+
+1.we discussed the modules
+
+      1. Sign Up-kishan
+      2. Sign In-kiran S
+      3. Deposit into Account.-shridhar
+      4. Withdraw from Account.-chozha varman
+      5. Transfer Between Accounts-arhar
+      6. Direct Payment to VISA-arpita 
+      7. Search by TRN no on View Checking Accounts.-krishnababu
+      8. Search by TRN no on View Saving Accounts.-pavan
+
+2.we have gone through the document of our project
+3.we have designed the test cases
+
+----------------------------------Day2--------------------------------
+
+   From 9 to 9:30----Meet
+
+1.created a maven project along with the pages,testpages,utilities,runners (packages)
+2.Uploaded to the github
+3.Cucumber file
+4.we should complete writting code(using (POM) ) page fractory code tommorrow
+
+   From 5 to 5:30 (Doubt clearing session)
+
+----------------------------------Day3---------------------------------
+	From 9 to 9:30----Meet
+
+1.implemented pom framework
+2.Created stepDefinition files
+
+	From 5 to 5:30 (Doubt clearing session)
+
+----------------------------------Day4---------------------------------
+
+	From 9 to 9:30----Meet
+
+1.Completed coding part
+2.Add ItestAnalyzer,Assertions
+
+	From 5 to 5:30 (Doubt clearing session)
+
+----------------------------------Day5---------------------------------
+	From 9 to 9:30----Meet
+
+1.
+	From 5 to 5:30 (Doubt clearing session)
+----------------------------------Day6---------------------------------
+	From 9 to 9:30----Meet
+
+1.Started integrating the fetures
+
+	From 5 to 5:30 (Doubt clearing session)
+
+----------------------------------Day7---------------------------------
+			
+		Sunday
+
+----------------------------------Day8---------------------------------
+
+	From 9 to 9:30----Meet
+1.Start to make the ppt
+
+	From 5 to 5:30 (Doubt clearing session)
+
+----------------------------------Day9---------------------------------
+
+	From 9 to 9:30----Meet
+1.Explaining the code
+2.Completed PPT part.
+	From 5 to 5:30 (Doubt clearing session)
+
+-----------------------------------------------------------------------
